@@ -23,3 +23,6 @@ El propósito de este proyecto es demostrar cómo se puede crear y estructurar u
 - El `index.html` contiene solo el esqueleto básico, el resto de la página se construye dinámicamente.
   
 Puedes ver la página en acción [aquí](https://enyixz.github.io/Maquetaci-n-WEB-solo-con-JS/).
+
+
+![image](https://github.com/user-attachments/assets/804941fe-3f7f-43ab-8c0a-3858bc7d65a2)
